@@ -16,5 +16,7 @@ public class TestClass21 {
 	private String testxxx;
 	
 	private String testYYY;
+	
+	private String added_on_github;
 
 }
